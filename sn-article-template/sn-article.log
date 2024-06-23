@@ -1,0 +1,1329 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.22)  13 MAY 2024 21:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**sn-article.tex
+(./sn-article.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-05> (./sn-jnl.cls
+Document Class: sn-jnl 2019/11/18 v0.1: An authoring template for Springer Jour
+nal articles
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip47
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen138
+)
+LaTeX Info: Redefining \rm on input line 145.
+LaTeX Info: Redefining \sf on input line 146.
+LaTeX Info: Redefining \tt on input line 147.
+LaTeX Info: Redefining \bf on input line 148.
+LaTeX Info: Redefining \it on input line 149.
+LaTeX Info: Redefining \sl on input line 150.
+LaTeX Info: Redefining \sc on input line 151.
+LaTeX Info: Redefining \cal on input line 152.
+LaTeX Info: Redefining \mit on input line 153.
+LaTeX Info: Redefining \textsubscript on input line 211.
+\columnhsize=\skip50
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+)
+\artcatbox=\box51
+\aucount=\count196
+\corraucount=\count197
+\punctcount=\count198
+\emailcnt=\count199
+\c@affn=\count266
+\addcount=\count267
+\PacsCount=\count268
+\PacsTmpCnt=\count269
+\FMremarkdim=\dimen147
+\fmremarkbox=\box52
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/sttools/cuted.sty
+Package: cuted 2021/10/04 v2.0 Mixing onecolumn and twocolumn modes
+\At@ViperColsBreak=\toks18
+\preCutedStrip=\toks19
+\postCutedStrip=\toks20
+\cuted@@tempbox@a=\box53
+\cuted@@tempbox@c=\box54
+\cuted@@tempbox@var=\box55
+\hold@viper=\box56
+\@viper=\box57
+\cuted@@varbox@a=\box58
+\cuted@@varbox@c=\box59
+\cuted@@tempdim@spread=\dimen148
+\cuted@@tempdim@a=\dimen149
+\cuted@@tempdim@b=\dimen150
+\ht@hold@viper=\dimen151
+\ht@viper=\dimen152
+\var@@pagediscards@ht=\dimen153
+\stripsep=\skip51
+\viper@penalty=\count270
+)
+\firstpagehtcheck=\dimen154
+\labelwidthi=\dimen155
+\labelwidthii=\dimen156
+\labelwidthiii=\dimen157
+\labelwidthiv=\dimen158
+\figwidth=\dimen159
+\figheight=\dimen160
+\sidecapwidth=\dimen161
+\wrapcapline=\dimen162
+\totalwrapline=\dimen163
+\wraptotline=\dimen164
+\figurebox=\box60
+\wrapfigcapbox=\box61
+\figcapbox=\box62
+\capbox=\box63
+\headwidthskip=\skip52
+\tabcapbox=\box64
+\temptbox=\box65
+\tempdime=\dimen165
+\tabhtdime=\dimen166
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen167
+\Gin@req@width=\dimen168
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count271
+\rotFPtop=\skip53
+\rotFPbot=\skip54
+\rot@float@box=\box66
+\rot@mess@toks=\toks21
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box67
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count272
+\c@@ppsavesec=\count273
+\c@@ppsaveapp=\count274
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count275
+)
+\@linkdim=\dimen169
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count278
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4408.
+\c@Hy@tempcnt=\count279
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4746.
+\XeTeXLinkMargin=\dimen170
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count280
+\Field@Width=\dimen171
+\Fld@charsize=\dimen172
+Package hyperref Info: Hyper figures OFF on input line 6024.
+Package hyperref Info: Link nesting OFF on input line 6029.
+Package hyperref Info: Hyper index ON on input line 6032.
+Package hyperref Info: backreferencing OFF on input line 6039.
+Package hyperref Info: Link coloring OFF on input line 6044.
+Package hyperref Info: Link coloring with OCG OFF on input line 6049.
+Package hyperref Info: PDF/A mode OFF on input line 6054.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/breakurl/breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count286
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 1468.
+Package hyperref Info: Option `breaklinks' set `true' on input line 1468.
+Package hyperref Info: Option `plainpages' set `false' on input line 1468.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 1468.
+Package hyperref Info: Option `bookmarksnumbered' set `false' on input line 146
+8.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen173
+\WF@size=\dimen174
+\c@WF@wrappedlines=\count287
+\WF@box=\box68
+\WF@everypar=\toks24
+Package: wrapfig 2003/01/31  v 3.6
+)
+\wraplines=\count288
+\@authorfigbox=\box69
+\@authorfigboxdim=\skip56
+\biofigadjskip=\skip57
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip58
+\bibsep=\skip59
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count289
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count290
+\multirow@dima=\skip61
+\bigstrutjot=\dimen175
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count291
+\mult@box=\box70
+\multicol@leftmargin=\dimen176
+\c@unbalance=\count292
+\c@collectmore=\count293
+\doublecol@number=\count294
+\multicoltolerance=\count295
+\multicolpretolerance=\count296
+\full@width=\dimen177
+\page@free=\dimen178
+\premulticols=\dimen179
+\postmulticols=\dimen180
+\multicolsep=\skip62
+\multicolbaselineskip=\skip63
+\partial@page=\box71
+\last@line=\box72
+\maxbalancingoverflow=\dimen181
+\mult@rightbox=\box73
+\mult@grightbox=\box74
+\mult@firstbox=\box75
+\mult@gfirstbox=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\c@minrows=\count297
+\c@columnbadness=\count298
+\c@finalcolumnbadness=\count299
+\last@try=\dimen182
+\multicolovershoot=\dimen183
+\multicolundershoot=\dimen184
+\mult@nat@firstbox=\box113
+\colbreak@box=\box114
+\mc@col@check@num=\count300
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-08-05 L3 programming layer (loader) 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count301
+\l__pdf_internal_box=\box115
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count302
+\l__lipsum_a_int=\count303
+\l__lipsum_b_int=\count304
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen185
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen186
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count305
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count306
+\leftroot@=\count307
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count308
+\DOTSCASE@=\count309
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box116
+\strutbox@=\box117
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen187
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count310
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count311
+\dotsspace@=\muskip17
+\c@parentequation=\count312
+\dspbrk@lvl=\count313
+\tag@help=\toks26
+\row@=\count314
+\column@=\count315
+\maxfields@=\count316
+\andhelp@=\toks27
+\eqnshift@=\dimen188
+\alignsep@=\dimen189
+\tagshift@=\dimen190
+\tagwidth@=\dimen191
+\totwidth@=\dimen192
+\lineht@=\dimen193
+\@envbody=\toks28
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks30
+\thm@bodyfont=\toks31
+\thm@headfont=\toks32
+\thm@notefont=\toks33
+\thm@headpunct=\toks34
+\thm@preskip=\skip67
+\thm@postskip=\skip68
+\thm@headsep=\skip69
+\dth@everypar=\toks35
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ncctools/manyfoot.sty
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ncctools/nccfoots.sty
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen194
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen195
+\lightrulewidth=\dimen196
+\cmidrulewidth=\dimen197
+\belowrulesep=\dimen198
+\belowbottomsep=\dimen199
+\aboverulesep=\dimen256
+\abovetopsep=\dimen257
+\cmidrulesep=\dimen258
+\cmidrulekern=\dimen259
+\defaultaddspace=\dimen260
+\@cmidla=\count317
+\@cmidlb=\count318
+\@aboverulesep=\dimen261
+\@belowrulesep=\dimen262
+\@thisruleclass=\count319
+\@lastruleclass=\count320
+\@thisrulewidth=\dimen263
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count321
+\float@exts=\toks36
+\float@box=\box118
+\@float@everytoks=\toks37
+\@floatcapt=\box119
+)
+\@float@every@algorithm=\toks38
+\c@algorithm=\count322
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count323
+\c@ALG@rem=\count324
+\c@ALG@nested=\count325
+\ALG@tlm=\skip70
+\ALG@thistlm=\skip71
+\c@ALG@Lnr=\count326
+\c@ALG@blocknr=\count327
+\c@ALG@storecount=\count328
+\c@ALG@tmpcounter=\count329
+\ALG@tmplength=\skip72
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count330
+\lst@gtempboxa=\box120
+\lst@token=\toks39
+\lst@length=\count331
+\lst@currlwidth=\dimen264
+\lst@column=\count332
+\lst@pos=\count333
+\lst@lostspace=\dimen265
+\lst@width=\dimen266
+\lst@newlines=\count334
+\lst@lineno=\count335
+\lst@maxwidth=\dimen267
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count336
+\lst@skipnumbers=\count337
+\lst@framebox=\box121
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box122
+)
+\tc@llx=\dimen268
+\tc@lly=\dimen269
+\tc@urx=\dimen270
+\tc@ury=\dimen271
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen272
+\adjbox@Height=\dimen273
+\adjbox@Depth=\dimen274
+\adjbox@Totalheight=\dimen275
+\adjbox@pwidth=\dimen276
+\adjbox@pheight=\dimen277
+\adjbox@pdepth=\dimen278
+\adjbox@ptotalheight=\dimen279
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count338
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box123
+\sift@deathcycles=\count339
+\@vwid@loff=\dimen280
+\@vwid@roff=\dimen281
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen282
+\ar@mcellbox=\box124
+\extrarowheight=\dimen283
+\NC@list=\toks40
+\extratabsurround=\skip73
+\backup@length=\skip74
+\ar@cellbox=\box125
+)
+\TX@col@width=\dimen284
+\TX@old@table=\dimen285
+\TX@old@col=\dimen286
+\TX@target=\dimen287
+\TX@delta=\dimen288
+\TX@cols=\count340
+\TX@ftn=\toks41
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip75
+\RaggedLeftLeftskip=\skip76
+\RaggedRightLeftskip=\skip77
+\CenteringRightskip=\skip78
+\RaggedLeftRightskip=\skip79
+\RaggedRightRightskip=\skip80
+\CenteringParfillskip=\skip81
+\RaggedLeftParfillskip=\skip82
+\RaggedRightParfillskip=\skip83
+\JustifyingParfillskip=\skip84
+\CenteringParindent=\skip85
+\RaggedLeftParindent=\skip86
+\RaggedRightParindent=\skip87
+\JustifyingParindent=\skip88
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+
+Package amsthm Warning: Unknown theoremstyle `thmstyleone' on input line 85.
+
+\c@theorem=\count341
+
+Package amsthm Warning: Unknown theoremstyle `thmstyletwo' on input line 92.
+
+\c@example=\count342
+\c@remark=\count343
+
+Package amsthm Warning: Unknown theoremstyle `thmstylethree' on input line 96.
+
+\c@definition=\count344
+(./sn-article.aux)
+\openout1 = `sn-article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 17.07164pt
+* modes: twoside 
+* h-part:(L,W,R)=(83.37448pt, 372.0pt, 125.06175pt)
+* v-part:(T,H,B)=(73.97716pt, 552.69478pt, 218.37491pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=372.0pt
+* \textheight=552.69478pt
+* \oddsidemargin=28.17613pt
+* \evensidemargin=52.79176pt
+* \topmargin=-19.72638pt
+* \headheight=5.5pt
+* \headsep=15.93355pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=34.1433pt
+* \marginparsep=14.22636pt
+* \columnsep=14.22636pt
+* \skip\footins=8.0pt plus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemargintrue
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count345
+\scratchdimen=\dimen289
+\scratchbox=\box126
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen290
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+\everyMPtoPDFconversion=\toks43
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring ON on input line 102.
+
+(./sn-article.out) (./sn-article.out)
+\@outlinefile=\write3
+\openout3 = `sn-article.out'.
+
+\c@lstlisting=\count351
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 153.
+
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 153.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <8.43146> not available
+(Font)              size <8> substituted on input line 153.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 153.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 153
+.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 153
+.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15
+3.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 153.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 153.
+
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 15
+3.
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 153.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.52061> not available
+(Font)              size <6> substituted on input line 153.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 153.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 153.
+
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 15
+3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package epstopdf Info: Source file: <Fig1.eps>
+(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    size: 361540 bytes
+(epstopdf)             Output file: <Fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:06:55
+(epstopdf)                    size: 202784 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig1-eps-converted-to.pdf 
+Fig1.eps>
+(epstopdf)             \includegraphics on input line 167.
+Package epstopdf Info: Output file is already uptodate.
+<Fig1-eps-converted-to.pdf, id=191, 805.0075pt x 760.8425pt>
+File: Fig1-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig1-eps-converted-to.pdf>
+Package pdftex.def Info: Fig1-eps-converted-to.pdf  used on input line 167.
+(pdftex.def)             Requested size: 372.0pt x 351.58229pt.
+Package epstopdf Info: Source file: <Fig2.eps>
+(epstopdf)                    date: 2024-04-07 11:30:47
+(epstopdf)                    size: 553438 bytes
+(epstopdf)             Output file: <Fig2-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:07:24
+(epstopdf)                    size: 167387 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig2-eps-converted-to.pdf 
+Fig2.eps>
+(epstopdf)             \includegraphics on input line 173.
+Package epstopdf Info: Output file is already uptodate.
+<Fig2-eps-converted-to.pdf, id=192, 719.68875pt x 606.265pt>
+File: Fig2-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig2-eps-converted-to.pdf>
+Package pdftex.def Info: Fig2-eps-converted-to.pdf  used on input line 173.
+(pdftex.def)             Requested size: 372.0pt x 313.38168pt.
+Package epstopdf Info: Source file: <Fig3.eps>
+(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    size: 50479 bytes
+(epstopdf)             Output file: <Fig3-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:08:04
+(epstopdf)                    size: 26089 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig3-eps-converted-to.pdf 
+Fig3.eps>
+(epstopdf)             \includegraphics on input line 179.
+Package epstopdf Info: Output file is already uptodate.
+<Fig3-eps-converted-to.pdf, id=193, 806.01125pt x 341.275pt>
+File: Fig3-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig3-eps-converted-to.pdf>
+Package pdftex.def Info: Fig3-eps-converted-to.pdf  used on input line 179.
+(pdftex.def)             Requested size: 372.0pt x 157.50914pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.184 
+       <./Fig1-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.191 \end{itemize}
+                    <./Fig2-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.202 
+       <./Fig3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Fig4.eps>
+(epstopdf)                    date: 2024-05-06 11:15:11
+(epstopdf)                    size: 1742266 bytes
+(epstopdf)             Output file: <Fig4-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:08:39
+(epstopdf)                    size: 359165 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig4-eps-converted-to.pdf 
+Fig4.eps>
+(epstopdf)             \includegraphics on input line 214.
+Package epstopdf Info: Output file is already uptodate.
+<Fig4-eps-converted-to.pdf, id=335, 852.18375pt x 519.9425pt>
+File: Fig4-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig4-eps-converted-to.pdf>
+Package pdftex.def Info: Fig4-eps-converted-to.pdf  used on input line 214.
+(pdftex.def)             Requested size: 372.0pt x 226.97446pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.229 \begin{equation}
+                       <./Fig4-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Package epstopdf Info: Source file: <Fig5.eps>
+(epstopdf)                    date: 2024-04-16 20:55:16
+(epstopdf)                    size: 4486184 bytes
+(epstopdf)             Output file: <Fig5-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:09:09
+(epstopdf)                    size: 792180 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig5-eps-converted-to.pdf 
+Fig5.eps>
+(epstopdf)             \includegraphics on input line 264.
+Package epstopdf Info: Output file is already uptodate.
+<Fig5-eps-converted-to.pdf, id=416, 1497.595pt x 721.69624pt>
+File: Fig5-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig5-eps-converted-to.pdf>
+Package pdftex.def Info: Fig5-eps-converted-to.pdf  used on input line 264.
+(pdftex.def)             Requested size: 372.0pt x 179.26733pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.270 
+       <./Fig5-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Package epstopdf Info: Source file: <Fig6.eps>
+(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    size: 109286 bytes
+(epstopdf)             Output file: <Fig6-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:09:40
+(epstopdf)                    size: 34334 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig6-eps-converted-to.pdf 
+Fig6.eps>
+(epstopdf)             \includegraphics on input line 380.
+Package epstopdf Info: Output file is already uptodate.
+<Fig6-eps-converted-to.pdf, id=507, 1062.97125pt x 338.26375pt>
+File: Fig6-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig6-eps-converted-to.pdf>
+Package pdftex.def Info: Fig6-eps-converted-to.pdf  used on input line 380.
+(pdftex.def)             Requested size: 372.0pt x 118.37859pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.386 \begin{equation}
+                       <./Fig6-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Fig7.eps>
+(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    size: 50024 bytes
+(epstopdf)             Output file: <Fig7-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:10:02
+(epstopdf)                    size: 18409 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig7-eps-converted-to.pdf 
+Fig7.eps>
+(epstopdf)             \includegraphics on input line 405.
+Package epstopdf Info: Output file is already uptodate.
+<Fig7-eps-converted-to.pdf, id=529, 440.64626pt x 324.21124pt>
+File: Fig7-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig7-eps-converted-to.pdf>
+Package pdftex.def Info: Fig7-eps-converted-to.pdf  used on input line 405.
+(pdftex.def)             Requested size: 372.0pt x 273.7158pt.
+Package epstopdf Info: Source file: <Fig8.eps>
+(epstopdf)                    date: 2024-04-16 20:38:45
+(epstopdf)                    size: 1359549 bytes
+(epstopdf)             Output file: <Fig8-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:10:26
+(epstopdf)                    size: 981486 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig8-eps-converted-to.pdf 
+Fig8.eps>
+(epstopdf)             \includegraphics on input line 420.
+Package epstopdf Info: Output file is already uptodate.
+<Fig8-eps-converted-to.pdf, id=532, 603.25375pt x 821.0675pt>
+File: Fig8-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig8-eps-converted-to.pdf>
+Package pdftex.def Info: Fig8-eps-converted-to.pdf  used on input line 420.
+(pdftex.def)             Requested size: 372.0pt x 506.31287pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.427 \section
+              {Experiments}\label{sec:exp} <./Fig7-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.427 \section
+              {Experiments}\label{sec:exp} <./Fig8-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Fig9.eps>
+(epstopdf)                    date: 2024-04-16 14:51:34
+(epstopdf)                    size: 2662003 bytes
+(epstopdf)             Output file: <Fig9-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-05-13 21:11:00
+(epstopdf)                    size: 386144 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fig9-eps-converted-to.pdf 
+Fig9.eps>
+(epstopdf)             \includegraphics on input line 441.
+Package epstopdf Info: Output file is already uptodate.
+<Fig9-eps-converted-to.pdf, id=563, 966.61125pt x 684.5575pt>
+File: Fig9-eps-converted-to.pdf Graphic file (type pdf)
+<use Fig9-eps-converted-to.pdf>
+Package pdftex.def Info: Fig9-eps-converted-to.pdf  used on input line 441.
+(pdftex.def)             Requested size: 372.0pt x 263.44577pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 448.
+
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 453.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 453.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.015> not available
+(Font)              size <5> substituted on input line 453.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 453.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 453.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (22.50732pt too wide) in paragraph at lines 512--541
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.549 
+       <./Fig9-eps-converted-to.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 554.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 577.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 601.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 618.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.639 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.639 
+      ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.641 \subsubsection
+                    {Influence of Multi-Scale Methods}
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.641 \subsubsection
+                    {Influence of Multi-Scale Methods}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21
+pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.643 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.643 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.643 
+      ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 664.
+
+(./sn-article.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+(./sn-article.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.985pt have occurred.
+
+Package rerunfilecheck Info: File `sn-article.out' has not changed.
+(rerunfilecheck)             Checksum: 94ABD73866861769C7306DE14050A279;5717.
+ ) 
+Here is how much of TeX's memory you used:
+ 16593 strings out of 477678
+ 265715 string characters out of 5829475
+ 693793 words of memory out of 5000000
+ 34908 multiletter control sequences out of 15000+600000
+ 488333 words of font info for 107 fonts, out of 8000000 for 9000
+ 1151 hyphenation exceptions out of 8191
+ 87i,23n,91p,2185b,648s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
+sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr
+/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></us
+r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
+/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/lo
+cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loca
+l/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/
+texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
+xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
+ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texliv
+e/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2
+022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2022/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on sn-article.pdf (27 pages, 3308534 bytes).
+PDF statistics:
+ 860 PDF objects out of 1000 (max. 8388607)
+ 716 compressed objects within 8 object streams
+ 151 named destinations out of 1000 (max. 500000)
+ 334 words of extra memory for PDF output out of 10000 (max. 10000000)
+

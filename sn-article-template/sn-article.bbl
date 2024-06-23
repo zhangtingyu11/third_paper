@@ -1,0 +1,267 @@
+\begin{thebibliography}{50}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\providecommand{\eprint}[2][]{\url{#2}}
+ \bibcommenthead
+
+\bibitem[{Brazil and Liu(2019)}]{m3d-rpn}
+Brazil G, Liu X (2019) M3d-rpn: Monocular 3d region proposal network for object
+  detection. In: Proceedings of the IEEE/CVF International Conference on
+  Computer Vision, pp 9287--9296
+
+\bibitem[{Brent(2013)}]{brent}
+Brent RP (2013) Algorithms for minimization without derivatives. Courier
+  Corporation
+
+\bibitem[{Cai et~al(2020)Cai, Li, Jiao, Li, Zeng, and Wang}]{polygon}
+Cai Y, Li B, Jiao Z, et~al (2020) Monocular 3d object detection with decoupled
+  structured polygon estimation and height-guided depth estimation. In:
+  Proceedings of the AAAI Conference on Artificial Intelligence, pp
+  10478--10485
+
+\bibitem[{Chen et~al(2020)Chen, Tai, Sun, and Li}]{monopair}
+Chen Y, Tai L, Sun K, et~al (2020) Monopair: Monocular 3d object detection
+  using pairwise spatial relationships. In: Proceedings of the IEEE/CVF
+  Conference on Computer Vision and Pattern Recognition, pp 12093--12102
+
+\bibitem[{Courbariaux et~al(2015)Courbariaux, Bengio, and David}]{hard-sigmoid}
+Courbariaux M, Bengio Y, David JP (2015) Binaryconnect: Training deep neural
+  networks with binary weights during propagations. Advances in neural
+  information processing systems 28
+
+\bibitem[{Dai et~al(2016)Dai, He, and Sun}]{roi-warp}
+Dai J, He K, Sun J (2016) Instance-aware semantic segmentation via multi-task
+  network cascades. In: Proceedings of the IEEE conference on computer vision
+  and pattern recognition, pp 3150--3158
+
+\bibitem[{Ding et~al(2020)Ding, Huo, Yi, Wang, Shi, Lu, and Luo}]{d4lcn}
+Ding M, Huo Y, Yi H, et~al (2020) Learning depth-guided convolutions for
+  monocular 3d object detection. In: Proceedings of the IEEE/CVF Conference on
+  computer vision and pattern recognition workshops, pp 1000--1001
+
+\bibitem[{Geiger et~al(2012)Geiger, Lenz, and Urtasun}]{kitti}
+Geiger A, Lenz P, Urtasun R (2012) Are we ready for autonomous driving? the
+  kitti vision benchmark suite. In: 2012 IEEE conference on computer vision and
+  pattern recognition, IEEE, pp 3354--3361
+
+\bibitem[{Girshick(2015)}]{fast-rcnn}
+Girshick R (2015) Fast r-cnn. In: Proceedings of the IEEE international
+  conference on computer vision, pp 1440--1448
+
+\bibitem[{He et~al(2017)He, Gkioxari, Doll{\'a}r, and Girshick}]{mask-rcnn}
+He K, Gkioxari G, Doll{\'a}r P, et~al (2017) Mask r-cnn. In: Proceedings of the
+  IEEE international conference on computer vision, pp 2961--2969
+
+\bibitem[{He et~al(2023)He, Yang, Yang, Lin, Fu, Wang, Yuan, and
+  Li}]{ssd-monodetr}
+He X, Yang F, Yang K, et~al (2023) Ssd-monodetr: Supervised scale-aware
+  deformable transformer for monocular 3d object detection. IEEE Transactions
+  on Intelligent Vehicles \doi{10.1109/TIV.2023.3311949}
+
+\bibitem[{Huang et~al(2022)Huang, Wu, Su, and Hsu}]{monodtr}
+Huang KC, Wu TH, Su HT, et~al (2022) Monodtr: Monocular 3d object detection
+  with depth-aware transformer. In: Proceedings of the IEEE/CVF Conference on
+  Computer Vision and Pattern Recognition, pp 4012--4021
+
+\bibitem[{Li et~al(2020)Li, Zhao, Liu, and Cao}]{rtm3d}
+Li P, Zhao H, Liu P, et~al (2020) Rtm3d: Real-time monocular 3d detection from
+  object keypoints for autonomous driving. In: European Conference on Computer
+  Vision, Springer, pp 644--660
+
+\bibitem[{Li and Kong(2023)}]{srif}
+Li X, Kong D (2023) Srif-rcnn: Sparsely represented inputs fusion of different
+  sensors for 3d object detection. Applied Intelligence 53(5):5532--5553
+
+\bibitem[{Li et~al(2022)Li, Qu, Zhou, Liu, Wang, and Jiang}]{monodde}
+Li Z, Qu Z, Zhou Y, et~al (2022) Diversity matters: Fully exploiting depth
+  clues for reliable monocular 3d object detection. In: Proceedings of the
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 2791--2800
+
+\bibitem[{Lian et~al(2022)Lian, Li, and Chen}]{monojsg}
+Lian Q, Li P, Chen X (2022) Monojsg: Joint semantic and geometric cost volume
+  for monocular 3d object detection. In: Proceedings of the IEEE/CVF Conference
+  on Computer Vision and Pattern Recognition, pp 1070--1079
+
+\bibitem[{Liu et~al(2022)Liu, Xue, and Wu}]{monocon}
+Liu X, Xue N, Wu T (2022) Learning auxiliary monocular contexts helps monocular
+  3d object detection. In: Proceedings of the AAAI Conference on Artificial
+  Intelligence, pp 1810--1818
+
+\bibitem[{Liu et~al(2023)Liu, Zheng, Cheng, Xue, Qi, and Wu}]{monoxiver}
+Liu X, Zheng C, Cheng KB, et~al (2023) Monocular 3d object detection with
+  bounding box denoising in 3d by perceiver. In: Proceedings of the IEEE/CVF
+  International Conference on Computer Vision, pp 6436--6446
+
+\bibitem[{Liu et~al(2020)Liu, Wu, and T{\'o}th}]{smoke}
+Liu Z, Wu Z, T{\'o}th R (2020) Smoke: Single-stage monocular 3d object
+  detection via keypoint estimation. In: Proceedings of the IEEE/CVF Conference
+  on Computer Vision and Pattern Recognition Workshops, pp 996--997
+
+\bibitem[{Lu et~al(2021)Lu, Ma, Yang, Zhang, Liu, Chu, Yan, and
+  Ouyang}]{gupnet}
+Lu Y, Ma X, Yang L, et~al (2021) Geometry uncertainty projection network for
+  monocular 3d object detection. In: Proceedings of the IEEE/CVF International
+  Conference on Computer Vision, pp 3111--3121
+
+\bibitem[{Lu et~al(2023)Lu, Ma, Yang, Zhang, Liu, Chu, He, Li, and
+  Ouyang}]{gupnet++}
+Lu Y, Ma X, Yang L, et~al (2023) Gupnet++: Geometry uncertainty propagation
+  network for monocular 3d object detection. Preprint at
+  \url{https://arxiv.org/abs/2310.15624}
+
+\bibitem[{Luo et~al(2021)Luo, Dai, Shao, and Ding}]{m3dssd}
+Luo S, Dai H, Shao L, et~al (2021) M3dssd: Monocular 3d single stage object
+  detector. In: Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition, pp 6145--6154
+
+\bibitem[{Ma et~al(2019)Ma, Wang, Li, Zhang, Ouyang, and Fan}]{color-embeded}
+Ma X, Wang Z, Li H, et~al (2019) Accurate monocular 3d object detection via
+  color-embedded 3d reconstruction for autonomous driving. In: Proceedings of
+  the IEEE/CVF International Conference on Computer Vision, pp 6851--6860
+
+\bibitem[{Ma et~al(2020)Ma, Liu, Xia, Zhang, Zeng, and Ouyang}]{patchnet}
+Ma X, Liu S, Xia Z, et~al (2020) Rethinking pseudo-lidar representation. In:
+  Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August
+  23--28, 2020, Proceedings, Part XIII 16, Springer, pp 311--327
+
+\bibitem[{Ma et~al(2021)Ma, Zhang, Xu, Zhou, Yi, Li, and Ouyang}]{monodle}
+Ma X, Zhang Y, Xu D, et~al (2021) Delving into localization errors for
+  monocular 3d object detection. In: Proceedings of the IEEE/CVF Conference on
+  Computer Vision and Pattern Recognition, pp 4721--4730
+
+\bibitem[{Maas et~al(2013)Maas, Hannun, Ng et~al}]{leaky-relu}
+Maas AL, Hannun AY, Ng AY, et~al (2013) Rectifier nonlinearities improve neural
+  network acoustic models. In: Proc. icml, Atlanta, GA, p~3
+
+\bibitem[{Manhardt et~al(2019)Manhardt, Kehl, and Gaidon}]{roi10d}
+Manhardt F, Kehl W, Gaidon A (2019) Roi-10d: Monocular lifting of 2d detection
+  to 6d pose and metric shape. In: Proceedings of the IEEE/CVF Conference on
+  Computer Vision and Pattern Recognition, pp 2069--2078
+
+\bibitem[{Mao et~al(2021)Mao, Niu, Bai, Liang, Xu, and Xu}]{pyramid-rcnn}
+Mao J, Niu M, Bai H, et~al (2021) Pyramid r-cnn: Towards better performance and
+  adaptability for 3d object detection. In: Proceedings of the IEEE/CVF
+  International Conference on Computer Vision, pp 2723--2732
+
+\bibitem[{Min et~al(2023)Min, Zhuang, Schulter, Liu, Dunn, and
+  Chandraker}]{neurocs}
+Min Z, Zhuang B, Schulter S, et~al (2023) Neurocs: Neural nocs supervision for
+  monocular 3d object localization. In: Proceedings of the IEEE/CVF Conference
+  on Computer Vision and Pattern Recognition, pp 21404--21414
+
+\bibitem[{Mousavian et~al(2017)Mousavian, Anguelov, Flynn, and
+  Kosecka}]{geometry3d}
+Mousavian A, Anguelov D, Flynn J, et~al (2017) 3d bounding box estimation using
+  deep learning and geometry. In: Proceedings of the IEEE conference on
+  Computer Vision and Pattern Recognition, pp 7074--7082
+
+\bibitem[{Park et~al(2021)Park, Ambrus, Guizilini, Li, and Gaidon}]{dd3d}
+Park D, Ambrus R, Guizilini V, et~al (2021) Is pseudo-lidar needed for
+  monocular 3d object detection? In: Proceedings of the IEEE/CVF International
+  Conference on Computer Vision, pp 3142--3152
+
+\bibitem[{Peng et~al(2022)Peng, Wu, Yang, Liu, and Cai}]{didm3d}
+Peng L, Wu X, Yang Z, et~al (2022) Did-m3d: Decoupling instance depth for
+  monocular 3d object detection. In: European Conference on Computer Vision,
+  Springer, pp 71--88
+
+\bibitem[{Reading et~al(2021)Reading, Harakeh, Chae, and Waslander}]{caddn}
+Reading C, Harakeh A, Chae J, et~al (2021) Categorical depth distribution
+  network for monocular 3d object detection. In: Proceedings of the IEEE/CVF
+  Conference on Computer Vision and Pattern Recognition, pp 8555--8564
+
+\bibitem[{Roddick et~al(2018)Roddick, Kendall, and Cipolla}]{oft}
+Roddick T, Kendall A, Cipolla R (2018) Orthographic feature transform for
+  monocular 3d object detection. Preprint at
+  \url{https://arxiv.org/abs/1811.08188}
+
+\bibitem[{Rukhovich et~al(2022)Rukhovich, Vorontsova, and
+  Konushin}]{imvoxelnet}
+Rukhovich D, Vorontsova A, Konushin A (2022) Imvoxelnet: Image to voxels
+  projection for monocular and multi-view general-purpose 3d object detection.
+  In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer
+  Vision, pp 2397--2406
+
+\bibitem[{Sun et~al(2020)Sun, Kretzschmar, Dotiwalla, Chouard, Patnaik, Tsui,
+  Guo, Zhou, Chai, Caine et~al}]{waymo}
+Sun P, Kretzschmar H, Dotiwalla X, et~al (2020) Scalability in perception for
+  autonomous driving: Waymo open dataset. In: Proceedings of the IEEE/CVF
+  conference on computer vision and pattern recognition, pp 2446--2454
+
+\bibitem[{Tao et~al(2023)Tao, Bian, Wang, Li, Gao, Zhang, Zheng, and
+  Zhu}]{segment-fusion}
+Tao C, Bian W, Wang C, et~al (2023) 3d object detection algorithm based on
+  multi-sensor segmental fusion of frustum association for autonomous driving.
+  Applied Intelligence 53(19):22753--22774
+
+\bibitem[{Teng et~al(2024)Teng, Li, Li, Hu, Li, Ai, and Chen}]{teng}
+Teng S, Li L, Li Y, et~al (2024) Fusionplanner: A multi-task motion planner for
+  mining trucks via multi-sensor fusion. Mechanical Systems and Signal
+  Processing 208:111051. \doi{https://doi.org/10.1016/j.ymssp.2023.111051}
+
+\bibitem[{Wang et~al(2021{\natexlab{a}})Wang, Du, Ye, Fu, Guo, Xue, Feng, and
+  Zhang}]{ddmp-3d}
+Wang L, Du L, Ye X, et~al (2021{\natexlab{a}}) Depth-conditioned dynamic
+  message propagation for monocular 3d object detection. In: Proceedings of the
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 454--463
+
+\bibitem[{Wang et~al(2021{\natexlab{b}})Wang, Zhang, Zhu, Zhang, He, Li, and
+  Xue}]{pct}
+Wang L, Zhang L, Zhu Y, et~al (2021{\natexlab{b}}) Progressive coordinate
+  transforms for monocular 3d object detection. Advances in Neural Information
+  Processing Systems 34:13364--13377
+
+\bibitem[{Wang et~al(2022)Wang, Xinge, Pang, and Lin}]{pgd}
+Wang T, Xinge Z, Pang J, et~al (2022) Probabilistic and geometric depth:
+  Detecting objects in perspective. In: Conference on Robot Learning, PMLR, pp
+  1475--1485
+
+\bibitem[{Wang et~al(2023)Wang, Li, Zhang, Liu, Gao, and Dai}]{lrru}
+Wang Y, Li B, Zhang G, et~al (2023) Lrru: Long-short range recurrent updating
+  networks for depth completion. In: Proceedings of the IEEE/CVF International
+  Conference on Computer Vision, pp 9422--9432
+
+\bibitem[{Weng and Kitani(2019)}]{mono-plidar}
+Weng X, Kitani K (2019) Monocular 3d object detection with pseudo-lidar point
+  cloud. In: Proceedings of the IEEE/CVF International Conference on Computer
+  Vision Workshops, pp 0--0
+
+\bibitem[{Wu et~al(2023)Wu, Gan, Wang, Chen, and Pu}]{monopgc}
+Wu Z, Gan Y, Wang L, et~al (2023) Monopgc: Monocular 3d object detection with
+  pixel geometry contexts. In: 2023 IEEE International Conference on Robotics
+  and Automation (ICRA), IEEE, pp 4842--4849
+
+\bibitem[{Xu et~al(2023)Xu, Peng, Cheng, Li, Qian, Li, Wang, and
+  Cai}]{mononerd}
+Xu J, Peng L, Cheng H, et~al (2023) Mononerd: Nerf-like representations for
+  monocular 3d object detection. In: Proceedings of the IEEE/CVF International
+  Conference on Computer Vision, pp 6814--6824
+
+\bibitem[{Ye et~al(2022)Ye, Jiang, Zhen, and Du}]{cie}
+Ye Q, Jiang L, Zhen W, et~al (2022) Consistency of implicit and explicit
+  features matters for monocular 3d object detection. Preprint at
+  \url{https://arxiv.org/abs/2207.07933}
+
+\bibitem[{Yu et~al(2018)Yu, Wang, Shelhamer, and Darrell}]{dla}
+Yu F, Wang D, Shelhamer E, et~al (2018) Deep layer aggregation. In: Proceedings
+  of the IEEE conference on computer vision and pattern recognition, pp
+  2403--2412
+
+\bibitem[{Zhang et~al(2023)Zhang, Qiu, Wang, Guo, Cui, Qiao, Li, and
+  Gao}]{monodetr}
+Zhang R, Qiu H, Wang T, et~al (2023) Monodetr: Depth-guided transformer for
+  monocular 3d object detection. In: Proceedings of the IEEE/CVF International
+  Conference on Computer Vision, pp 9155--9166
+
+\bibitem[{Zhang et~al(2021)Zhang, Lu, and Zhou}]{monoflex}
+Zhang Y, Lu J, Zhou J (2021) Objects are different: Flexible monocular 3d
+  object detection. In: Proceedings of the IEEE/CVF Conference on Computer
+  Vision and Pattern Recognition, pp 3289--3298
+
+\bibitem[{Zhou et~al(2019)Zhou, Wang, and Kr{\"a}henb{\"u}hl}]{centernet}
+Zhou X, Wang D, Kr{\"a}henb{\"u}hl P (2019) Objects as points. Preprint at
+  \url{https://arxiv.org/abs/1904.07850}
+
+\end{thebibliography}
