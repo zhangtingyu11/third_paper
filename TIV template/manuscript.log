@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.22)  22 JUN 2024 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.11)  23 JUN 2024 14:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -776,11 +776,11 @@ Package hyperref Info: Link coloring ON on input line 37.
 \openout4 = `manuscript.out'.
 
 Package epstopdf Info: Source file: <Figures/depth_residual.eps>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 361540 bytes
 (epstopdf)             Output file: <Figures/depth_residual-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 202784 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/depth_residual-eps
 -converted-to.pdf Figures/depth_residual.eps>
@@ -794,11 +794,11 @@ nput line 70.
 (pdftex.def)             Requested size: 252.0pt x 238.16902pt.
 Package epstopdf Info: Source file: <Figures/visual_depth_offset/visual_depth_o
 ffset.eps>
-(epstopdf)                    date: 2024-04-07 11:30:47
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 553438 bytes
 (epstopdf)             Output file: <Figures/visual_depth_offset/visual_depth_o
 ffset-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-04-07 11:30:47
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 167387 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/visual_depth_offse
 t/visual_depth_offset-eps-converted-to.pdf Figures/visual_depth_offset/visual_d
@@ -815,11 +815,11 @@ nverted-to.pdf  used on input line 76.
 (pdftex.def)             Requested size: 252.0pt x 212.28844pt.
 Package epstopdf Info: Source file: <Figures/decoupled_depth_fig/decoupled_dept
 h.eps>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 50479 bytes
 (epstopdf)             Output file: <Figures/decoupled_depth_fig/decoupled_dept
 h-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 26089 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/decoupled_depth_fi
 g/decoupled_depth-eps-converted-to.pdf Figures/decoupled_depth_fig/decoupled_de
@@ -861,11 +861,11 @@ Underfull \hbox (badness 1552) in paragraph at lines 106--107
  []
 
 Package epstopdf Info: Source file: <Figures/overview/overview.eps>
-(epstopdf)                    date: 2024-05-06 11:15:11
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 1742266 bytes
 (epstopdf)             Output file: <Figures/overview/overview-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2024-05-06 11:15:20
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 359165 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/overview/overview-
 eps-converted-to.pdf Figures/overview/overview.eps>
@@ -881,11 +881,11 @@ n input line 115.
 [3]
 Package epstopdf Info: Source file: <Figures/multi-scale/Multi-Scale-Grid-Atten
 tion.eps>
-(epstopdf)                    date: 2024-04-16 20:55:16
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 4486184 bytes
 (epstopdf)             Output file: <Figures/multi-scale/Multi-Scale-Grid-Atten
 tion-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-04-16 20:55:25
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 792180 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/multi-scale/Multi-
 Scale-Grid-Attention-eps-converted-to.pdf Figures/multi-scale/Multi-Scale-Grid-
@@ -903,11 +903,11 @@ verted-to.pdf  used on input line 166.
  [4 <./Figures/overview/overview-eps-converted-to.pdf>] [5 <./Figures/multi-sca
 le/Multi-Scale-Grid-Attention-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/laplace/laplace_distribution.eps>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 109286 bytes
 (epstopdf)             Output file: <Figures/laplace/laplace_distribution-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 34334 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/laplace/laplace_di
 stribution-eps-converted-to.pdf Figures/laplace/laplace_distribution.eps>
@@ -923,11 +923,11 @@ pdf  used on input line 284.
 (pdftex.def)             Requested size: 252.0pt x 80.18878pt.
  [6 <./Figures/laplace/laplace_distribution-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/laplace/laplace_cdf.eps>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 50024 bytes
 (epstopdf)             Output file: <Figures/laplace/laplace_cdf-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 18409 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/laplace/laplace_cd
 f-eps-converted-to.pdf Figures/laplace/laplace_cdf.eps>
@@ -941,11 +941,11 @@ Package pdftex.def Info: Figures/laplace/laplace_cdf-eps-converted-to.pdf  used
  on input line 309.
 (pdftex.def)             Requested size: 252.0pt x 185.41081pt.
 Package epstopdf Info: Source file: <Figures/ppp_result/ppp.eps>
-(epstopdf)                    date: 2024-04-16 20:38:45
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 1359549 bytes
 (epstopdf)             Output file: <Figures/ppp_result/ppp-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2024-04-16 20:40:13
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 981486 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ppp_result/ppp-eps
 -converted-to.pdf Figures/ppp_result/ppp.eps>
@@ -961,11 +961,11 @@ nput line 324.
  [7 <./Figures/laplace/laplace_cdf-eps-converted-to.pdf> <./Figures/ppp_result/
 ppp-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/affine/affine.eps>
-(epstopdf)                    date: 2024-04-16 14:51:34
+(epstopdf)                    date: 2024-06-23 14:00:59
 (epstopdf)                    size: 2662003 bytes
 (epstopdf)             Output file: <Figures/affine/affine-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2024-04-16 14:51:58
+(epstopdf)                    date: 2024-06-23 14:00:59
 (epstopdf)                    size: 386144 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/affine/affine-eps-
 converted-to.pdf Figures/affine/affine.eps>

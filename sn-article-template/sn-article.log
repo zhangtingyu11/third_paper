@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.22)  13 MAY 2024 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.11)  23 JUN 2024 14:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -908,10 +908,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package epstopdf Info: Source file: <Fig1.eps>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 361540 bytes
 (epstopdf)             Output file: <Fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:06:55
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 202784 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fig1-eps-converted-to.pdf 
 Fig1.eps>
@@ -923,10 +923,10 @@ File: Fig1-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Fig1-eps-converted-to.pdf  used on input line 167.
 (pdftex.def)             Requested size: 372.0pt x 351.58229pt.
 Package epstopdf Info: Source file: <Fig2.eps>
-(epstopdf)                    date: 2024-04-07 11:30:47
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 553438 bytes
 (epstopdf)             Output file: <Fig2-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:07:24
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 167387 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fig2-eps-converted-to.pdf 
 Fig2.eps>
@@ -938,10 +938,10 @@ File: Fig2-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Fig2-eps-converted-to.pdf  used on input line 173.
 (pdftex.def)             Requested size: 372.0pt x 313.38168pt.
 Package epstopdf Info: Source file: <Fig3.eps>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 50479 bytes
 (epstopdf)             Output file: <Fig3-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:08:04
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 26089 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fig3-eps-converted-to.pdf 
 Fig3.eps>
@@ -984,10 +984,10 @@ s been already used, duplicate ignored
 l.202 
        <./Fig3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Fig4.eps>
-(epstopdf)                    date: 2024-05-06 11:15:11
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 1742266 bytes
 (epstopdf)             Output file: <Fig4-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:08:39
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 359165 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fig4-eps-converted-to.pdf 
 Fig4.eps>
@@ -1015,10 +1015,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
 Package epstopdf Info: Source file: <Fig5.eps>
-(epstopdf)                    date: 2024-04-16 20:55:16
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 4486184 bytes
 (epstopdf)             Output file: <Fig5-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:09:09
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 792180 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fig5-eps-converted-to.pdf 
 Fig5.eps>
@@ -1049,10 +1049,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
 Package epstopdf Info: Source file: <Fig6.eps>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 109286 bytes
 (epstopdf)             Output file: <Fig6-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:09:40
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 34334 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fig6-eps-converted-to.pdf 
 Fig6.eps>
@@ -1074,10 +1074,10 @@ s been already used, duplicate ignored
 l.386 \begin{equation}
                        <./Fig6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Fig7.eps>
-(epstopdf)                    date: 2024-04-07 11:30:46
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 50024 bytes
 (epstopdf)             Output file: <Fig7-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:10:02
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 18409 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fig7-eps-converted-to.pdf 
 Fig7.eps>
@@ -1089,10 +1089,10 @@ File: Fig7-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Fig7-eps-converted-to.pdf  used on input line 405.
 (pdftex.def)             Requested size: 372.0pt x 273.7158pt.
 Package epstopdf Info: Source file: <Fig8.eps>
-(epstopdf)                    date: 2024-04-16 20:38:45
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 1359549 bytes
 (epstopdf)             Output file: <Fig8-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:10:26
+(epstopdf)                    date: 2024-06-23 14:01:00
 (epstopdf)                    size: 981486 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fig8-eps-converted-to.pdf 
 Fig8.eps>
@@ -1125,22 +1125,32 @@ s been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.427 \section
               {Experiments}\label{sec:exp} <./Fig8-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Fig9.eps>
-(epstopdf)                    date: 2024-04-16 14:51:34
-(epstopdf)                    size: 2662003 bytes
-(epstopdf)             Output file: <Fig9-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-05-13 21:11:00
-(epstopdf)                    size: 386144 bytes
-(epstopdf)             Command: <repstopdf --outfile=Fig9-eps-converted-to.pdf 
-Fig9.eps>
-(epstopdf)             \includegraphics on input line 441.
-Package epstopdf Info: Output file is already uptodate.
-<Fig9-eps-converted-to.pdf, id=563, 966.61125pt x 684.5575pt>
-File: Fig9-eps-converted-to.pdf Graphic file (type pdf)
-<use Fig9-eps-converted-to.pdf>
-Package pdftex.def Info: Fig9-eps-converted-to.pdf  used on input line 441.
-(pdftex.def)             Requested size: 372.0pt x 263.44577pt.
 
+! LaTeX Error: File `affine' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.441 ...ludegraphics[width=1.0\linewidth]{affine}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.446 
+      
+
+]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 448.
@@ -1163,15 +1173,6 @@ LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.015> not available
 (Font)              size <5> substituted on input line 453.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17
-
-]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Overfull \hbox (22.50732pt too wide) in paragraph at lines 512--541
  [][] 
  []
@@ -1183,12 +1184,27 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
-s been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.549 
-       <./Fig9-eps-converted-to.pdf>]
+l.546 \subsubsection
+                    {KITTI Validation Dataset}
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.546 \subsubsection
+                    {KITTI Validation Dataset}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.553 
+      ]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 554.
@@ -1208,62 +1224,42 @@ LaTeX Warning: No positions in optional float specifier.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ [20
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.639 
       
-pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.639 
-      ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20
-pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.641 \subsubsection
-                    {Influence of Multi-Scale Methods}
-pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.641 \subsubsection
-                    {Influence of Multi-Scale Methods}]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21
 pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.643 
+l.639 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.643 
-      
+l.639 
+      ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21
 pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.643 
-      ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
+l.646 \begin{equation}
+                      ]
 
 Package hyperref Warning: Difference (4) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 664.
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
 (./sn-article.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1285,17 +1281,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.985pt have occurred.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `sn-article.out' has not changed.
 (rerunfilecheck)             Checksum: 94ABD73866861769C7306DE14050A279;5717.
  ) 
 Here is how much of TeX's memory you used:
- 16593 strings out of 477678
- 265715 string characters out of 5829475
- 693793 words of memory out of 5000000
- 34908 multiletter control sequences out of 15000+600000
+ 16616 strings out of 477678
+ 266020 string characters out of 5829475
+ 678793 words of memory out of 5000000
+ 34932 multiletter control sequences out of 15000+600000
  488333 words of font info for 107 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 87i,23n,91p,2185b,648s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,23n,91p,2185b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -1320,10 +1319,10 @@ st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-
 dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2022/te
 xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on sn-article.pdf (27 pages, 3308534 bytes).
+Output written on sn-article.pdf (27 pages, 2925424 bytes).
 PDF statistics:
- 860 PDF objects out of 1000 (max. 8388607)
- 716 compressed objects within 8 object streams
+ 851 PDF objects out of 1000 (max. 8388607)
+ 712 compressed objects within 8 object streams
  151 named destinations out of 1000 (max. 500000)
- 334 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 329 words of extra memory for PDF output out of 10000 (max. 10000000)
 
